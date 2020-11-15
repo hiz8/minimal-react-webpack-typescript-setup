@@ -6,7 +6,7 @@ The minimal React, Webpack, TypeScript Setup.
 
 - React 17
 - TypeScript
-- Webpack 4
+- Webpack 5
 - webpack-dev-server
 
 ## Installation
